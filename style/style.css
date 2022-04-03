@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: 'segoe ui';;
+    background-color: black;
+  }
+  
+.image{
+    position: fixed;
+    top: 16%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 130px;
+    border-radius: 100px;
+}
+
+.name{
+    color: white;
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Fredoka One', cursive;
+    font-size: 20px;
+}
+
+.info{
+    color: rgb(114, 114, 114);
+    font-family: 'Poppins', sans-serif;
+    position: fixed;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+@media (max-width:292px){
+    .info{
+        font-size: 10px;
+    }
+
+}
+
+.twitch{
+    position: fixed;
+    top: 48%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 60px;
+    width: 44vw;
+    background-color: rgb(43, 42, 42);
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding-top: 13px;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.youtube{
+    position: fixed;
+    top: 59%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 60px;
+    width: 44vw;
+    background-color: rgb(43, 42, 42);
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding-top: 13px;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+
+.discord{
+    position: fixed;
+    top: 71%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 60px;
+    width: 44vw;
+    background-color: rgb(43, 42, 42);
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding-top: 13px;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.github{
+    position: fixed;
+    top: 83%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 60px;
+    width: 44vw;
+    background-color: rgb(43, 42, 42);
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding-top: 13px;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.twitch:hover, .youtube:hover, .discord:hover, .github:hover {
+    animation-name: widthincrease;
+    animation-duration: 0.3s;
+
+}
+
+@keyframes widthincrease {
+    from {
+    width: 600px;
+    height: 60px;
+    }
+    to {
+    width: 630px;
+    height: 64px;
+    }
+  }
+
