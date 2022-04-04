@@ -2,7 +2,7 @@
 
 It's a 1 page website. I just made this in 1 day, it's so attractive and responsive.
 
-**Here is a example** [Argue-LinkTree](https://wonderful-belekoy-92782b.netlify.app/)
+**Here is a live demo** -  [Argue-LinkTree](https://wonderful-belekoy-92782b.netlify.app/)
 
 It's a inspired by https://linktr.ee.
 
