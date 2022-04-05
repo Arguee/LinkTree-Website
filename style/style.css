@@ -130,11 +130,11 @@ body {
 
 @keyframes widthincrease {
     from {
-    width: 600px;
+    width: 45vw;
     height: 60px;
     }
     to {
-    width: 630px;
+    width: 45vw;
     height: 64px;
     }
   }
