@@ -22,6 +22,7 @@ body {
     transform: translate(-50%, -50%);
     width: 130px;
     border-radius: 100px;
+    cursor: no-drop;
 }
 
 .name{
