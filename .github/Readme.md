@@ -28,4 +28,8 @@ This project is licensed under the Mit Licence
 
 <h2>💖Like my work?</h2>
 
-You can contact me on Discord for paid projects<p>[Discord](https://discord.com/users/842978764690030593)</p>
+You can contact me on Discord for paid projects<p>[Discord](https://discord.com/users/842978764690030593)
+  
+Or you can support me by buying me a coffee <p> [BuyMeACoffee](https://www.buymeacoffee.com/argue)
+</p>
+
