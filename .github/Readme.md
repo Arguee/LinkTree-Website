@@ -1,15 +1,31 @@
-#  Responsive LinkTree Website
+<h1 align="center" id="title">Link Tree Website</h1>
 
-This is a responsive 1 page website. It's like a linktree website where you give all your social media links.   
-It's responsive and works on every device so great.
+<p align="center"><img src="https://socialify.git.ci/Arguee/LinkTree-Website/image?description=1&amp;language=1&amp;logo=https%3A%2F%2Fargue.gq%2Fassets%2Fprofilepicture.png&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
-**Here is the website demo** - [Argue-LinkTree](https://argue.gq/)  
+<p align="center"><img src="https://img.shields.io/github/issues/Arguee/LinkTree-Website" alt="shields"><img src="https://img.shields.io/github/forks/Arguee/LinkTree-Website" alt="shields"><img src="https://img.shields.io/github/stars/Arguee/LinkTree-Website" alt="shields"><img src="https://img.shields.io/github/license/Arguee/LinkTree-Website" alt="shields"></p>
 
-`For Paid Projects Dm Me On Discord - !Argue#6693`     
-`Or you can support me by buying me a coffee -` **https://www.buymeacoffee.com/argue**
+<h2>🚀 Demo</h2>
 
-![alt text](https://github.com/Arguee/LinkTree-Website/blob/main/.github/WebsiteView.PNG?raw=true)
+[https://argue.gq](https://argue.gq)
 
+<h2>Project Screenshots:</h2>
 
+<img src="https://github.com/Arguee/LinkTree-Website/blob/main/.github/WebsiteView.PNG?raw=true" alt="project-screenshot" width="880" height="520/">
 
+  
+  
+<h2>🧐 Features</h2>
 
+Here're some of the project's best features:
+
+*   Respnsive
+*   Simple
+*   Easy Code
+
+<h2>🛡️ License:</h2>
+
+This project is licensed under the Mit Licence
+
+<h2>💖Like my work?</h2>
+
+You can contact me on Discord for paid projects<p>[Discord](https://discord.com/users/842978764690030593)</p>
