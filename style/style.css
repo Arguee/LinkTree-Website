@@ -125,17 +125,18 @@ body {
 .twitch:hover, .youtube:hover, .discord:hover, .github:hover {
     animation-name: widthincrease;
     animation-duration: 0.3s;
+    width: 630px;
+    height: 64px;
 
 }
 
 @keyframes widthincrease {
-    from {
-    width: 45vw;
+    0% {
+    width: 600px;
     height: 60px;
     }
-    to {
-    width: 45vw;
+    100% {
+    width: 630px;
     height: 64px;
     }
   }
-
