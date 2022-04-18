@@ -33,6 +33,14 @@ body {
     transform: translate(-50%, -50%);
     font-family: 'Fredoka One', cursive;
     font-size: 20px;
+
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
 }
 
 .info{
@@ -42,6 +50,15 @@ body {
     top: 35%;
     left: 50%;
     transform: translate(-50%, -50%);
+
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+    
 }
 @media (max-width:292px){
     .info{
