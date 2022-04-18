@@ -130,12 +130,6 @@ body {
 
 }
 
-@media (max-width:323px){
-    .name{
-        font-size: 15px;
-    }
-}
-
 @media (max-height:600) {
     .twitch, .youtube, .discord, .github{
         height: 49px;
