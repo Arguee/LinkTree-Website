@@ -10,7 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/Arguee/LinkTree-Website/blob/main/.github/WebsiteView.PNG?raw=true" alt="project-screenshot" width="880" height="520/">
+<img src="https://github.com/Arguee/LinkTree-Website/blob/main/.github/WebsiteView.PNG?raw=true" alt="project-screenshot" width="880" height="auto/">
 
   
   
