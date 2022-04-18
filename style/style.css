@@ -130,6 +130,13 @@ body {
 
 }
 
+@media (max-height:600) {
+    .twitch, .youtube, .discord, .github{
+        height: 40px;
+    }
+    
+}
+
 @keyframes widthincrease {
     0% {
     width: 600px;
