@@ -18,7 +18,7 @@
 
 Here're some of the project's best features:
 
-*   Respnsive
+*   Responsive
 *   Simple
 *   Easy Code
 
