@@ -1,12 +1,6 @@
 <h1 align="center" id="title">Link Tree Website</h1>
 
-<p align="center"><img src="https://socialify.git.ci/Arguee/LinkTree-Website/image?description=1&amp;language=1&amp;logo=https%3A%2F%2Fargue.gq%2Fassets%2Fprofilepicture.png&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
-
 <p align="center"><img src="https://img.shields.io/github/issues/Arguee/LinkTree-Website" alt="shields"><img src="https://img.shields.io/github/forks/Arguee/LinkTree-Website" alt="shields"><img src="https://img.shields.io/github/stars/Arguee/LinkTree-Website" alt="shields"><img src="https://img.shields.io/github/license/Arguee/LinkTree-Website" alt="shields"></p>
-
-<h2>🚀 Demo</h2>
-
-[https://argue.gq](https://argue.gq)
 
 <h2>Project Screenshots:</h2>
 
