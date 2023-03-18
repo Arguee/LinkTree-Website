@@ -1,29 +1,35 @@
-<h1 align="center" id="title">Link Tree Website</h1>
+# LinkTree Website
+This is a website I tried to replicate from other link tree website on my journey of learning HTML and CSS. I know its not that great of a website but it was some of my first websites.
 
-<p align="center"><img src="https://img.shields.io/github/issues/Arguee/LinkTree-Website" alt="shields"><img src="https://img.shields.io/github/forks/Arguee/LinkTree-Website" alt="shields"><img src="https://img.shields.io/github/stars/Arguee/LinkTree-Website" alt="shields"><img src="https://img.shields.io/github/license/Arguee/LinkTree-Website" alt="shields"></p>
 
-<h2>Project Screenshots:</h2>
 
-<img src="https://github.com/Arguee/LinkTree-Website/blob/main/.github/WebsiteView.PNG?raw=true" alt="project-screenshot" width="880" height="auto/">
+## Screenshots
 
-  
-  
-<h2>🧐 Features</h2>
+![App Screenshot](https://raw.githubusercontent.com/Arguee/LinkTree-Website/main/.github/WebsiteView.PNG)
 
-Here're some of the project's best features:
 
-*   Responsive
-*   Simple
-*   Easy Code
+## Features
 
-<h2>🛡️ License:</h2>
+- Responsive
+- Simple code
+- Minimalistic
 
-This project is licensed under the Mit Licence
 
-<h2>💖Like my work?</h2>
 
-You can contact me on Discord for paid projects<p>[Discord](https://discord.com/users/842978764690030593)
-  
-Or you can support me by buying me a coffee <p> [BuyMeACoffee](https://www.buymeacoffee.com/argue)
-</p>
+## Issues
++ Hover animation is broken
+
+## Authors
+
+- [@Argue](https://www.github.com/Arguee)
+
+
+## License
+
+Project is licensed under [MIT License](https://choosealicense.com/licenses/mit/).
+
+
+## Support
+
+For support, contaact me via !Argue#6693 on Discord
 
