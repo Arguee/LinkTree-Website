@@ -17,7 +17,7 @@ This is a website I tried to replicate from other link tree website on my journe
 
 
 ## Issues
-+ Hover animation is broken
++ Hover animation is little scuffed
 
 ## Authors
 
