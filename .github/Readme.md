@@ -31,5 +31,5 @@ Project is licensed under [MIT License](https://choosealicense.com/licenses/mit/
 
 ## Support
 
-For support, contaact me via !Argue#6693 on Discord
+For support, contact me via `arguexd` on Discord
 
